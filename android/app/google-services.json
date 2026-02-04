@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460783170502",
+    "project_id": "gso43a-nia",
+    "storage_bucket": "gso43a-nia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460783170502:android:b4a70b6b3118a41521f8c7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_nia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjrY-C0-VPykLgy3fMn2sy9CoA1vxl33A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
